@@ -2,7 +2,7 @@
 
 ### Identifiants sur les machines du projet :
 
-cisco/cisco
+ciscocisco
 
 ### Définir le hostname d’un équipement cisco
 
